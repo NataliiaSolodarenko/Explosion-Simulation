@@ -46,8 +46,7 @@ This application was created as part of coursework during the first year of stud
 <h3><b>📌 Notes</b></h3>
 
 * This was developed as part of coursework and demonstrates foundational GUI and algorithmic skills.
-* The project UI is in English, but some screenshots may still contain Ukrainian.
-* Future enhancements could include custom shapes, curved obstacles, and explosion effects.
+* The project UI is in English
 
 <h3><b>📬 Contact</b></h3>
 
