@@ -30,6 +30,10 @@ This application was created as part of coursework during the first year of stud
 * Program.cs: Entry point of the application.
 * Resources: Contains icons for play/pause and speed visuals.
 
+<h3><b>📷 UI Preview</b></h3>
+
+[Demo video of the project](https://vimeo.com/1100318754)
+
 <h3><b>📖 How It Works</b></h3>
 
 1. Mode Selection: Choose between placing a cursor, explosion origin, or drawing obstacles.
@@ -52,5 +56,5 @@ This application was created as part of coursework during the first year of stud
 
 Feel free to reach out for questions or collaborations:
 * Developer: Nataliia  Solodarenko
-* LinkedIn: https://www.linkedin.com/in/nataliia-solodarenko-5272b0305/
+* [LinkedIn](https://www.linkedin.com/in/nataliia-solodarenko-5272b0305/)
 * Email: nataliiasolodarenko@gmail.com
