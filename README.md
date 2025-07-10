@@ -29,7 +29,6 @@ This application was created as part of coursework during the first year of stud
 * Form1.cs: Main application logic including GUI, rendering, and simulation engine.
 * Program.cs: Entry point of the application.
 * Resources: Contains icons for play/pause and speed visuals.
-* New Text Document.txt: Full code file (uploaded version).
 
 <h3><b>📖 How It Works</b></h3>
 
